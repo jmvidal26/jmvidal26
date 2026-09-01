@@ -28,13 +28,3 @@ const jesus = {
   ],
   currentGoal: "Building high-performance tools and preparing for Google STEP / SWE roles"
 };
-## 🗓️ My Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmvidal26&show_icons=true&theme=tokyonight&rank_icon=github&locale=en" alt="Jesús's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmvidal26&layout=compact&theme=tokyonight&locale=en" alt="Most Used Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmvidal26&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=e0af68" alt="Activity Graph" width="100%" />
-</p>
