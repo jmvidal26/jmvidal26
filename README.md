@@ -65,21 +65,15 @@ const jesus = {
   </tr>
 </table>
 <div align="center">
+  
 ## 🗓️ My Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmvidal26&show_icons=true&theme=tokyonight&rank_icon=github&locale=en" alt="Jesús's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmvidal26&layout=compact&theme=tokyonight&locale=en" alt="Most Used Languages" height="165" />
-</p>
+![Jesús's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmvidal26&show_icons=true&theme=tokyonight&rank_icon=github)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmvidal26&theme=tokyonight&bg_color=1a1b26&color=7aa2f7&line=7dcfff&point=e0af68" alt="Activity Graph" width="100%" />
-</p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmvidal26&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jmvidal26&theme=tokyonight)
 
 ## 🐍 Contributions Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmvidal26/jmvidal26/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmvidal26/jmvidal26/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jmvidal26/jmvidal26/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake Animation](https://raw.githubusercontent.com/jmvidal26/jmvidal26/output/github-contribution-grid-snake-dark.svg)
