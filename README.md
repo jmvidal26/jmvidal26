@@ -66,7 +66,7 @@ const jesus = {
       <img src="https://img.shields.io/badge/Metasploit-1278B4?style=for-the-badge&logo=metasploit&logoColor=white">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    </td>
+  </td>
 </tr>
 </table>
 <div align="center">
