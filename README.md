@@ -38,7 +38,7 @@ const jesus = {
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
+<tr>
     <td align="center"><strong>Languages & Core</strong></td>
     <td align="center"><strong>AI, ML & NLP</strong></td>
     <td align="center"><strong>Security, OS & Tools</strong></td>
