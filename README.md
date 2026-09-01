@@ -34,12 +34,12 @@ const jesus = {
 
 <table>
   <tr>
-    <td align="center" width="33%"><b>Languages & Core</b></td>
-    <td align="center" width="33%"><b>AI, ML & NLP</b></td>
-    <td align="center" width="33%"><b>Security, OS & Tools</b></td>
+    <td align="center"><strong>Languages & Core</strong></td>
+    <td align="center"><strong>AI, ML & NLP</strong></td>
+    <td align="center"><strong>Security, OS & Tools</strong></td>
   </tr>
   <tr>
-    <td align="center" valign="top">
+    <td align="center">
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><br/><br/>
@@ -47,14 +47,14 @@ const jesus = {
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     </td>
-    <td align="center" valign="top">
+    <td align="center">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
     </td>
-    <td align="center" valign="top">
+    <td align="center">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br/><br/>
       <img src="https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kalilinux&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Parrot_OS-02B5EC?style=for-the-badge&logo=parrotsecurity&logoColor=white" /><br/><br/>
@@ -64,7 +64,7 @@ const jesus = {
     </td>
   </tr>
 </table>
-
+<div align="center">
 ## 🗓️ My Contributions
 
 <p align="center">
