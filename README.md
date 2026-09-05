@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=jmvidal26&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-### 🎓 Computer Engineering Student
+### 🎓 Computer Engineering Student | Software & AI Systems Developer
 <div align="center">
   
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jesús-vidal-5063023b5)
@@ -14,6 +14,8 @@
 
 ## 🚀 About Me
 
+<div align="left">
+  
 ```javascript
 const jesus = {
   pronouns: "he/him",
@@ -37,6 +39,8 @@ const jesus = {
 };
 ```
 
+<div align="center">
+  
 ## 🛠️ Tech Stack
 
 <table>
@@ -73,7 +77,7 @@ const jesus = {
 </table>
 <div align="center">
   
-## 🏅 Certificaciones Oficiales y Verificadas
+## 🏅  Certifications & Badges
 
 
 <p align="center">
