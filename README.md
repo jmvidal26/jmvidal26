@@ -30,7 +30,7 @@ const jesus = {
     "Networking & Cybersecurity Analysis"
   ],
   currentEcosystem: [
-    "C++",
+    "C++ & C",
     "Python & asyncio",
     "Ollama & PyTorch",
     "Linux & Security Tools"
